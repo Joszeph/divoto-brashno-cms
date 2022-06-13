@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "1ma5vsl1",
+    "dataset": "production"
+  },
   "project": {
     "name": "brashno-backend"
-  },
-  "api": {
-    "projectId": "6dg51yx7",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
